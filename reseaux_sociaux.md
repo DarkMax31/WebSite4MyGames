@@ -5,7 +5,7 @@ in_menu: true
 ---
 ---
 # Ma chaine Youtube
-## _DarkMax31:_ https://www.youtube.com/@DarkMax31
+## _[DarkMax31](https://www.youtube.com/@DarkMax31)_ 
 
 # Mon GitHub
-## _DarkMax31:_ https://github.com/DarkMax31/
+## _[DarkMax31](https://github.com/DarkMax31/)_ 

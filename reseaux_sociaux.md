@@ -5,9 +5,8 @@ in_menu: true
 ---
 ---
 # Ma chaine Youtube
- **_[DarkMax31]_**(https://www.youtube.com/@DarkMax31)
- ![Avatar YouTube](images/channels4_profile.jpg)
-
+ **_[DarkMax31]_** (https://www.youtube.com/@DarkMax31)
+ <img src="images/channels4_profile.jpg" alt="Avatar YouTube" class="profile-circle">
 # Mon GitHub
- **_[DarkMax31]_**(https://github.com/DarkMax31/)
-  ![Avatar GitHub](images/GithubPP.png) 
+ **_[DarkMax31]_** (https://github.com/DarkMax31/)
+ <img src="images/GithubPP.png" alt="Avatar GitHub" class="profile-circle">

@@ -1,3 +1,17 @@
 :root {
     --couleur-primaire : #07357d;
 }
+
+.profile-circle {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 2px solid #333; /* Vous pouvez personnaliser la couleur et l'épaisseur */
+    transition: transform 0.3s ease; /* Effet optionnel au survol */
+}
+
+.profile-circle:hover {
+    transform: scale(1.1); /* Effet de légère augmentation au survol (optionnel) */
+}
+

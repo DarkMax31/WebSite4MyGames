@@ -9,5 +9,5 @@ in_menu: true
 <img src="images/channels4_profile.jpg" alt="Avatar YouTube" class="profile-circle">
 
 # Mon GitHub
-**_[DarkMax31] (https://github.com/DarkMax31/)_**
+**_[DarkMax31](https://github.com/DarkMax31/)_**
 <img src="images/GithubPP.png" alt="Avatar GitHub" class="profile-circle">
